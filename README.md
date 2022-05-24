@@ -9,3 +9,4 @@
 - Interface for BeCode AI class to let learners connect to servers easier. (React)
 - Currently working on - BeVisible. App for learners to make internship research easier (React)
 
+#### Happy to be a part of Dev community , looking to join my first Hackathon!
